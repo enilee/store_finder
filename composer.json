@@ -27,14 +27,13 @@
 
   "require": {
     "php": ">=5.3.7",
-    "typo3/cms": "^7.6"
+    "typo3/cms": "dev-master"
   },
 
   "require-dev": {
     "namelesscoder/typo3-repository-client": "^1.2.0",
     "mikey179/vfsStream": "~1.6.0",
-    "phpunit/phpunit": "~4.8.0",
-    "sjbr/static-info-tables": "^6.3.9"
+    "phpunit/phpunit": "~4.8.0"
   },
 
   "replace": {
